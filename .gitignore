@@ -1,0 +1,32 @@
+# Python byte code and virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter / IDE files
+.ipynb_checkpoints
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# LaTeX auxiliary files (if compiled locally)
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Output results (reproducible from scripts)
+per_state_results.txt
